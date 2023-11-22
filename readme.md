@@ -25,7 +25,8 @@
 
 ## Pruebas en POSTMAN
 
-- A continuación se detalla el cómo probar en postman, endpoints y demás.
+- A continuación se detalla el cómo probar en postman, endpoints y demás, por favor levante el servidor.
+  `python manange.py runserver`
 
 1. Login:
 
@@ -87,7 +88,7 @@ Esto mismo aplica para cargos, para esto cambie "company" por "rol", ejemplo : p
 
 - Use la librería coverage, puede ejecutarla haciendo `coverage run manage.py test `, llegué a un total de 84% de cobertura, omitiendo archivos como los "**init**.py" o de configuración, estos se encuentran en .coveragerc.
 
-## Puede ver un reporte en la ruta htmlcov/index.html
+## Puede ver un reporte ejecutando `coverage html` , creará un folder en la ruta htmlcov/index.html
 
 ## La prueba la realicé en un total de 15 horas.
 
