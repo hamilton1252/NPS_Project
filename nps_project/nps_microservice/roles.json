@@ -1,0 +1,10 @@
+[
+    {"description": "Accionista"},
+    {"description": "Contacto"},
+    {"description": "Consultor"},
+    {"description": "Gestor de Cuentas"},
+    {"description": "Director Ejecutivo"},
+    {"description": "Gerente de Proyecto"},
+    {"description": "Analista Financiero"},
+    {"description": "Asistente Administrativo"}
+]
